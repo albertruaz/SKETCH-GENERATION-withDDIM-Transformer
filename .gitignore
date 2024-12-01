@@ -15,3 +15,5 @@ __pycache__/
 
 *.png
 *.log
+
+!assets/*.png
